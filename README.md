@@ -1,6 +1,7 @@
-## [2048 Game]
+## [2048 Game] (https://play2048.co)
 
-[![preview](https://github.com/exslym/2048-Game/blob/main/public/preview.jpg)](https://exslym.github.io/2048-Game/)
+![Screenshot 2024-11-16 163915](https://github.com/user-attachments/assets/7b9e6fd1-d28e-4cbb-91a6-5106d3166039)
+
 
 ### This is a popular puzzle game where the player must combine numbered tiles to reach the ultimate goal of creating a tile with the number 2048. Made with JavaScript.
 
