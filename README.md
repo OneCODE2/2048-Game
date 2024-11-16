@@ -1,4 +1,4 @@
-## [2048 Game](https://exslym.github.io/2048-Game/)
+## [2048 Game]
 
 [![preview](https://github.com/exslym/2048-Game/blob/main/public/preview.jpg)](https://exslym.github.io/2048-Game/)
 
