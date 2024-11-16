@@ -1,4 +1,4 @@
-## [2048 Game] (https://play2048.co)
+## [2048 Game] 
 
 ![Screenshot 2024-11-16 163915](https://github.com/user-attachments/assets/7b9e6fd1-d28e-4cbb-91a6-5106d3166039)
 
